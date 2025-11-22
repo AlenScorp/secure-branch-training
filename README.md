@@ -1,1 +1,1 @@
-# secure-branch-training
+# secure-branch-trainingЭто описание проекта(Лабораторная работа №1: Лысов/Губарев после армии)
